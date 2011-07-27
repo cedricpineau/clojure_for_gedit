@@ -1,0 +1,11 @@
+Clojure is a LISP dialect of java. This is an effort to provide syntax support for clojure in gedit (http://projects.gnome.org/gedit/) , a popular text editor. 
+
+GtkSourceView (http://projects.gnome.org/gtksourceview/) is the tool that helps us in this context.
+
+##Usage 
+
+Running the install.sh by the following commands will install the support for clojure in gedit.
+
+$> sudo chmod +x install.sh
+
+$> sudo ./install.sh
